@@ -7,7 +7,7 @@
 
 
 [![Stars](https://img.shields.io/github/stars/Masterrockiei/Sakura?style=flat-square&color=yellow)](https://github.com/Masterrockiei/Sakura/stargazers)
-[![Forks](https://img.shields.io/github/forks/Masterrockiei/Sakura?style=flat-square&color=orange)](https://github.com/Masterrockiei/Sakura/fork)
+[![Forks](https://img.shields.io/github/forks/Masterrockiei/Elsa-1?style=flat-square&color=orange)](https://github.com/Masterrockiei/Elsa-1.git/fork)
 [![Size](https://img.shields.io/github/repo-size/Masterrockiei/Sakura?style=flat-square&color=green)](https://github.com/Masterrockiei/Sakura/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Masterrockiei/Sakura)   
 [![Contributors](https://img.shields.io/github/contributors/Masterockiei/Sakura?style=flat-square&color=green)](https://github.com/Masterrockiei/Sakura/graphs/contributors)
